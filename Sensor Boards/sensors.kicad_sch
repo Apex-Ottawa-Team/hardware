@@ -2411,6 +2411,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "LSM6DSVTR"
+			(at 115.57 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "14"
 			(uuid "fa9ac845-bd9e-47ce-bc72-b860033d0fb2")
 		)
@@ -2649,6 +2658,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "0402W106M6R3HI"
+			(at 180.34 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5bb87099-3308-44ea-95af-7aed94dc013f")
 		)
@@ -2711,6 +2729,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 180.34 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "B4B-XH-A"
 			(at 180.34 87.63 0)
 			(effects
 				(font
@@ -3059,6 +3086,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "0402B104K160HI"
+			(at 133.35 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "af704b1f-c767-4f30-a34e-1d53301fee60")
 		)
@@ -3328,6 +3364,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RC0402JR-074K7L"
+			(at 163.83 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d34075f1-8a90-49a4-91a5-a00f032177fb")
 		)
@@ -3398,6 +3443,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RC0402JR-074K7L"
+			(at 163.83 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "609a9798-be4d-4a58-9ef0-6a0bc93a7cb8")
 		)
@@ -3457,6 +3511,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 146.05 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402B104K160HI"
 			(at 146.05 116.84 0)
 			(effects
 				(font
@@ -3535,6 +3598,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RC0402JR-07100KL"
+			(at 128.27 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "fc5856e1-8722-48e4-8fa7-1846353ec427")
 		)
@@ -3605,6 +3677,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "NCU15XH103F6SRC"
+			(at 128.27 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "29df39d8-da63-4d31-b4fc-529bb5df8559")
 		)
@@ -3667,6 +3748,15 @@
 			)
 		)
 		(property "Description" "I2C-Compatible, 8-Bit Analog-to-Digital Converter with Alert Function, MSOP-8"
+			(at 149.86 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ADC081C021CIMM/NOPB"
 			(at 149.86 130.81 0)
 			(effects
 				(font
@@ -3753,6 +3843,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 128.27 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402B104K160HI"
 			(at 128.27 68.58 0)
 			(effects
 				(font
