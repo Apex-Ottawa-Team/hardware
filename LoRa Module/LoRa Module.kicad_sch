@@ -1372,6 +1372,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 156.21 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "1d4bc33e-01ff-49f2-a96f-83bc05213138")
 		)
@@ -1590,6 +1599,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "GRM155R60J475ME47D"
+			(at 142.24 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ef38d150-311a-4c69-85af-f6ea42e5ec9a")
 		)
@@ -1650,6 +1668,15 @@
 			)
 		)
 		(property "Description" "Jumper, 2-pole, closed/bridged"
+			(at 180.34 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
 			(at 180.34 100.33 0)
 			(effects
 				(font
@@ -1991,6 +2018,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 180.34 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "aae006f3-b078-444e-8859-3702d367a94b")
 		)
@@ -2052,6 +2088,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 118.11 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "B5B-XH-A"
 			(at 118.11 104.14 0)
 			(effects
 				(font
@@ -2205,6 +2250,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RC0402JR-0710KL"
+			(at 173.99 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a1fefd74-cba3-4bcc-b528-9e7d3991840e")
 		)
@@ -2342,6 +2396,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RC0402JR-0710KL"
+			(at 173.99 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2dff3909-b761-49fd-bfbf-f2f11a12b82c")
 		)
@@ -2403,6 +2466,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 137.16 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KP5NNNC"
 			(at 137.16 93.98 0)
 			(effects
 				(font

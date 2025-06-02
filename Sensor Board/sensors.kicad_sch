@@ -2658,7 +2658,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402W106M6R3HI"
+		(property "MPN" "CL05A106MQ5NUNC"
 			(at 180.34 76.2 0)
 			(effects
 				(font
@@ -3086,7 +3086,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402B104K160HI"
+		(property "MPN" "CL05B104KP5NNNC"
 			(at 133.35 68.58 0)
 			(effects
 				(font
@@ -3364,7 +3364,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0402JR-074K7L"
+		(property "MPN" "RC0402FR-074K7L"
 			(at 163.83 93.98 0)
 			(effects
 				(font
@@ -3443,7 +3443,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0402JR-074K7L"
+		(property "MPN" "RC0402FR-074K7L"
 			(at 163.83 81.28 0)
 			(effects
 				(font
@@ -3519,7 +3519,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402B104K160HI"
+		(property "MPN" "CL05B104KP5NNNC"
 			(at 146.05 116.84 0)
 			(effects
 				(font
@@ -3562,7 +3562,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "51k"
 			(at 130.81 133.3499 0)
 			(effects
 				(font
@@ -3598,7 +3598,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RC0402JR-07100KL"
+		(property "MPN" "ERJ-2RKF5102X"
 			(at 128.27 132.08 0)
 			(effects
 				(font
@@ -3677,7 +3677,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "NCU15XH103F6SRC"
+		(property "MPN" "RC0402JR-0710KL"
 			(at 128.27 124.46 0)
 			(effects
 				(font
@@ -3851,7 +3851,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402B104K160HI"
+		(property "MPN" "CL05B104KP5NNNC"
 			(at 128.27 68.58 0)
 			(effects
 				(font

@@ -5865,7 +5865,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "STM32L431RCT6"
 			(at 91.44 73.66 0)
 			(effects
 				(font
@@ -6331,7 +6331,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "GRM155R60J475ME47D"
 			(at 237.49 78.74 0)
 			(effects
 				(font
@@ -6409,7 +6409,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CL05B104KP5NNNC"
 			(at 240.03 48.26 0)
 			(effects
 				(font
@@ -6554,6 +6554,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RC0402JR-07560RL"
+			(at 179.07 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "79c2445e-fdb0-41af-ad66-a3b336477a4e")
 		)
@@ -6624,7 +6633,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "GRM155R70J105KA12D"
 			(at 205.74 48.26 0)
 			(effects
 				(font
@@ -7106,7 +7115,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CL05B104KP5NNNC"
 			(at 219.71 48.26 0)
 			(effects
 				(font
@@ -7313,7 +7322,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "MSD-1-A"
 			(at 223.52 128.27 0)
 			(effects
 				(font
@@ -7412,7 +7421,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "GRM1555C1H561JA01D"
 			(at 204.47 81.28 0)
 			(effects
 				(font
@@ -7490,6 +7499,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RC0402JR-07560RL"
+			(at 123.19 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6df93870-3f69-48ce-b539-82f1e2196155")
 		)
@@ -7560,7 +7578,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "B5B-XH-A"
 			(at 64.77 149.86 0)
 			(effects
 				(font
@@ -7865,7 +7883,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "B2B-XH-A"
 			(at 250.19 74.93 0)
 			(effects
 				(font
@@ -8075,7 +8093,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CL05B104KP5NNNC"
 			(at 250.19 48.26 0)
 			(effects
 				(font
@@ -8152,7 +8170,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "MCEE1005T1R0MHN"
 			(at 205.74 74.93 90)
 			(effects
 				(font
@@ -8296,7 +8314,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "RC0402JR-0710KL"
 			(at 60.96 46.99 0)
 			(effects
 				(font
@@ -8372,7 +8390,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CL05B104KP5NNNC"
 			(at 55.88 36.83 90)
 			(effects
 				(font
@@ -8515,7 +8533,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "GRM155R60J475ME47D"
 			(at 194.31 78.74 0)
 			(effects
 				(font
@@ -8669,7 +8687,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "B4B-XH-A"
 			(at 102.87 149.86 0)
 			(effects
 				(font
@@ -8819,7 +8837,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CL05A106MQ5NUNC"
 			(at 260.35 48.26 0)
 			(effects
 				(font
@@ -8962,7 +8980,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "B5B-XH-A"
 			(at 64.77 171.45 0)
 			(effects
 				(font
@@ -9051,7 +9069,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "MIC23050-SYML-TR"
 			(at 219.71 80.01 0)
 			(effects
 				(font
@@ -9351,7 +9369,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "B4B-XH-A"
 			(at 102.87 172.72 0)
 			(effects
 				(font
@@ -9568,7 +9586,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CL05B104KP5NNNC"
 			(at 195.58 48.26 0)
 			(effects
 				(font
@@ -9647,7 +9665,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CL05B104KP5NNNC"
 			(at 180.34 48.26 0)
 			(effects
 				(font
@@ -9860,7 +9878,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "B6B-XH-A"
 			(at 137.16 158.75 0)
 			(effects
 				(font
@@ -10100,7 +10118,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CL05B104KP5NNNC"
 			(at 229.87 48.26 0)
 			(effects
 				(font
@@ -10179,7 +10197,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "5-146274-4"
 			(at 127 66.04 0)
 			(effects
 				(font
