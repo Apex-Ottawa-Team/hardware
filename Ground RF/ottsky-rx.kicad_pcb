@@ -7,6 +7,12 @@
 		(legacy_teardrops no)
 	)
 	(paper "A4")
+	(title_block
+		(title "Ground RF")
+		(rev "v1.0.0")
+		(company "Ottawa Skybound")
+		(comment 1 "Designed by Aryan Zafer")
+	)
 	(layers
 		(0 "F.Cu" signal)
 		(4 "In1.Cu" signal)
