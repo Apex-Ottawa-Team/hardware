@@ -18,7 +18,7 @@ Strain ADC: Analog-to-digital converter board for strain measurements. Designed 
 
 Archive/RF Module: Previous design iteration of the LoRa board. Designed by Adam Turaj
 
-Gas & Solar Sensor: Designed to collect Solar & Gas composition data. Designed by Aryan Zafer
+Gas Sensor: Collects data on TVOC concentrations in the air. Designed by Aryan Zafer
 
 Ground RF: Board used to communicate and receive data from the weather balloon. Designed by Aryan Zafer
 
